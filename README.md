@@ -16,9 +16,9 @@ This script is designed to crash axon when ran. It's only meant to be supported 
 - Yielding (Optional)
 
 # Credits
-Avexus - Original Script
-NikoBellic99 - Modding Aimbot & Attempting to mod ESP
-Virtualization - Making sure Niko doesn't fuck up.
+- Avexus - Original Script
+- NikoBellic99 - Modding Aimbot & Attempting to mod ESP
+- Virtualization - Making sure Niko doesn't fuck up.
 
 # Supported Exploits
 - XDeveloper
