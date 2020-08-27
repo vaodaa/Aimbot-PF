@@ -34,17 +34,15 @@ This script is designed to crash axon when ran. It's only meant to be supported 
 # Blacklisted Exploits
 - Axon
 - JJSploit (ew)
-- WRDAPI Exploits (Use EasyExploits)
+- WRDAPI Exploits
+- EasyExploits Exploits
 - MoonWare
 - LeafyCLVM
-- SkidSlapper
 - Skisploit
-- Sentinel (Crash simulator)
-- Calamari's shitty transpiler
-- Nemesis (Both the calamari paste and the LeafyCLVM paste)
+- Calamari transpiler
+- Nemesis
 - Yoink
-- Shadow
 - Slurp
-- DanSploit X (Fuck you daniel niewold, I dislike you)
-- ScreamSploit (I mean it's patched anyways LOL)
+- DanSploit X
+- ScreamSploit
 - Any other exploit that pisses me off.
