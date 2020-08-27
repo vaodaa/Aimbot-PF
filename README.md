@@ -2,7 +2,7 @@
 Simple Aimbot for Phantom Forces.
 This was originally written by Avexus but then heavily modified due to Stylis repeatedly patching code blocks, the script is no longer open source.
 NikoBellic99 has been my friend for a while and wanted me to help him unpatch so I did.
-If there are any issues, please contact me on discord @ Virtualization#2825
+If there are any issues, please contact me on discord @ Virtualization#1337
 This script is designed to crash axon when ran. It's only meant to be supported on premium exploits. 
 
 # Requirements
